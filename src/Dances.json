@@ -6,7 +6,7 @@
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 5/10 its versatility is: low and its song tempo is:  3/4 time 30-32 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Waltz",
         "history":"",
         "category":"Smooth"
     },
@@ -17,7 +17,7 @@
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: above average and its song tempo  is: 4/4 time",
         "music":"",
-        "picture":"",
+        "picture":"Tango",
         "history":"",
         "category":"Smooth"
     },
@@ -150,7 +150,7 @@
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: Low and its song tempo is: 3/4 time 28-31 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Waltz",
         "history":"",
         "category":"Standard"
     },
@@ -172,7 +172,7 @@
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is:  above average and its song tempo is: 4/4 time 32-34 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Tango",
         "history":"",
         "category":"Standard"
     },
@@ -448,7 +448,7 @@
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7.5/10 its versatility is: average and its song tempo is:  4/4 time 22-32Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Tango",
         "history":"",
         "category":"Other"
     },
@@ -481,7 +481,7 @@
         "array":[{"name":"American Dances", "id":"45"},{"name":"International Dances", "id":"46"},{"name":"Other Dances", "id":"47"}],
         "extra":"Anyone can learn to dance. But what dance should you learn? Will you get Paul's commentary on it? This site has it all.",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -491,7 +491,7 @@
         "array":[{"name":"Smooth", "id":"48"},{"name":"Rhythm", "id":"49"},{"name":"Alternatives", "id":"50"},{"name":"Back", "id":"44"}],
         "extra":"American style dances are generally danced more socially than international. That being said they still have international influences",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -501,7 +501,7 @@
         "array":[{"name":"Standard", "id":"52"},{"name":"Latin", "id":"51"},{"name":"Back", "id":"44"} ],
         "extra":"International Style are mostly danced competitively rather than socially",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -511,7 +511,7 @@
         "array":[{"name":"Street Latin", "id":"53"},{"name":"Club", "id":"54"},{"name":"Country", "id":"55"},{"name":"Misc", "id":"56"},{"name":"Swing Related","id":"57"}, {"name":"Back ", "id":"44"}],
         "extra":"Some of these dances are more fun than the ballroom ones in Paul's opinion",
         "music":"",
-        "picture":"",
+        "picture":"Earth",
         "history":""
     },
     {
@@ -571,7 +571,7 @@
         "array":[{"name":"Salsa", "id":"24"},{"name":"Bachata", "id":"25"},{"name":"Cumbia", "id":"28"},{"name":"Forro", "id":"27"},{"name":"Zouk", "id":"26"},{"name":"Kizomba", "id":"29"}, {"name":"Back ", "id":"47"}],
         "extra":"These dances go to latin beats, and make the bodies groove out in the streets.",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":""
     },
     {
@@ -601,7 +601,7 @@
         "array":[{"name":"Polka", "id":"43"},{"name":"Argentine Tango", "id":"41"},{"name":"Peabody", "id":"40"},{"name":"Carolina Shag", "id":"42"}, {"name":"Back ", "id":"47"}],
         "extra":"Some dances dont really fall into  any category paul can think of.",
         "music":"",
-        "picture":"",
+        "picture":"Earth",
         "history":""
     },
     {

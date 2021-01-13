@@ -6,7 +6,7 @@ import Container from "react-bootstrap/Container"
 import Row from "react-bootstrap/Row"
 import Col from "react-bootstrap/Col"
 import Jumbotron from "react-bootstrap/Jumbotron"
-import Card from "react-bootstrap/Card"
+import Body from "./Components/Body/body"
 import Table from "react-bootstrap/Table"
 
 function App() {
@@ -14,15 +14,18 @@ function App() {
   const [pageState,setPageState]=useState(Dances[43])
 
   const pageChange=(e)=>{
+    console.log(pageState)
     let x = e.target.name 
     let y = parseInt(x)
     console.log(y)
     setPageState(Dances[y-1])
+    
   }
   const navChange=(e)=>{
     let x = parseInt(e.target.id)
     console.log(x)
-    setPageState(Dances[x-1])
+    setPageState(Dances[parseInt(x)-1])
+    console.log(pageState)
   }
   useEffect(()=>{
 
@@ -45,7 +48,7 @@ function App() {
 <Container style={{marginTop: "2%"}}>
     <Row>
       <Col sm="12" md="4">
-        <Jumbotron>
+        <Jumbotron style={{position:"fixed"}}>
     <Table striped bordered hover variant="dark">
     <thead>
     <tr>
@@ -62,7 +65,7 @@ function App() {
       </Col>
       <Col sm="12" md="8">
         <Jumbotron>
-
+          <Body picture={pageState.picture}/>
         </Jumbotron>
       </Col>
     </Row>
