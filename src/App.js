@@ -66,7 +66,7 @@ function App() {
       </Col>
       <Col sm="12" md="8">
         <Jumbotron>
-          <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture} music={pageState.music} history={pageState.history}/>
+          <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture} music={pageState.music} history={pageState.history} bodyId={pageState.id} />
         </Jumbotron>
       </Col>
     </Row>
