@@ -1,0 +1,123 @@
+.Ballroom{
+    color:lightblue;
+    font-family:Impact, fantasy ;
+    font-weight: bold;
+    font-size: 4pc;
+    text-align: center;
+}
+.Tango{
+    color:darkRed;
+    font-style: italic;
+    font-family:Brush Script MT, Brush Script Std, cursive	 ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 7pc;
+    line-height: 150%;
+}
+.Earth{
+    color:white;
+    font-size: 4pc;
+}
+.Street{
+    color:cyan;
+}
+.Waltz{
+    color:white;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+    font-style: oblique;
+    font-size: 7pc;
+}
+.Speed{
+    color:white;
+    font-style: italic;
+}
+.Quick{
+    color:gray;
+}
+.Paso{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:4pc ;
+    font-style: oblique;
+}
+.Rumba{
+    color:darkred;
+    font-style: oblique;
+    font-size: 3pc;
+}
+.ChaCha{
+    color:darkred;
+    font-style: oblique;
+    text-align: end;
+    font-size: 3pc;
+}
+.Fire{
+    color:orange;
+    font-size:  3pc;
+    font-style: oblique;
+}
+.Retro{
+    color: orange;
+    text-align: center;
+    font-weight: bold;
+    font-size: 4pc;
+}
+.Country{
+    color:orange;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.Bar{
+    color:black;
+    text-align: center;
+    font-size:4pc;
+    font-weight: bold;
+}
+.Panda{
+    color:black;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3pc;
+}
+.Charleston{
+    color:lightgreen;
+    font-size: 2pc;
+    font-family: cursive;
+}
+.Polka{
+    color:hotpink;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 8pc;
+}
+.Carolina{
+    color:black;
+}
+.Brazil{
+    color:blue;
+    font-family:Impact, Haettenschweiler, sans-serif ;
+    font-weight: bold;
+    font-size: 5pc;
+    text-align: center;
+}
+.Bolero{
+    color:red;
+    font-style: oblique;
+}
+.Pepper{
+    color:orangered;
+    font-weight: bold;
+    font-family:cursive ;
+    font-size: 3pc;
+}
+.WCS{
+    color:white;
+    font-family: cursive;
+    text-align: center;
+}
+.Foxtrot{
+    color:lightblue;
+    font-family: Impact, sans-serif;
+    font-size: 6pc;
+
+}

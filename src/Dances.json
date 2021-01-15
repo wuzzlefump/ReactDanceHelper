@@ -28,7 +28,7 @@
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10",
         "music":"",
-        "picture":"",
+        "picture":"Foxtrot",
         "history":"",
         "category":"Smooth"
     },
@@ -39,7 +39,7 @@
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  8.5/10 its versatility is: average and its song tempo plus an example is: 3/4 time 54-46 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Speed",
         "history":"",
         "category":"Smooth"
     },
@@ -50,7 +50,7 @@
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  its versatility is: above average and its song tempo is:  4/4 time 30-32 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"ChaCha",
         "history":"",
         "category":"Rhythm"
     },
@@ -61,7 +61,7 @@
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 5/10 its versatility is: Very Versatile and its song tempo  is:  4/4 time 30-32 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Rumba",
         "history":"",
         "category":"Rhythm"
 
@@ -73,7 +73,7 @@
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: Very Versatile and its song tempo is: 4/4 time 32-36 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":"",
         "category":"Rhythm"
     },
@@ -84,7 +84,7 @@
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: average and its song tempo  is:  4/4time 47-51 mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Fire",
         "history":"",
         "category":"Rhythm"
     },
@@ -95,7 +95,7 @@
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is:  Low and its song tempo is:  4/4 time 24-26 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Bolero",
         "history":"",
         "category":"Rhythm"
     },
@@ -106,7 +106,7 @@
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  2/10 its versatility is:  above average and its song tempo is: 4/4 time 29-32 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Pepper",
         "history":"",
         "category":"Alternative"
     },
@@ -117,7 +117,7 @@
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  9/10 its versatility is: above average and its song tempo is: 2/4 time 54-56 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Brazil",
         "history":"",
         "category":"Alternative"
     },
@@ -128,7 +128,7 @@
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: Low and its song tempo is: 2/4 time 58-60 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Paso",
         "history":"",
         "category":"Alternative"
     },
@@ -139,7 +139,7 @@
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  8/10 its versatility is: very versatile and its song is: 4/4 time 28-32 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"WCS",
         "history":"",
         "category":"Alternative"
     },
@@ -161,7 +161,7 @@
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7.5/10 its versatility is: Low and its song tempo plus an example is: 4/4 time 28-30 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Foxtrot",
         "history":"",
         "category":"Standard"
     },
@@ -183,7 +183,7 @@
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  9/10 its versatility is: Low and its song tempo is: 4/4 time 50-52 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Quick",
         "history":"",
         "category":"Standard"
     },
@@ -194,7 +194,7 @@
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: average and its song tempo is: 3/4 time 56-60 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Speed",
         "history":"",
         "category":"Standard"
     },
@@ -205,7 +205,7 @@
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7.5/10 its versatility is: average and its song tempo is: 4/4 time 32-34 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"ChaCha",
         "history":"",
         "category":"Latin"
     },
@@ -216,7 +216,7 @@
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: average and its song tempo plus an example is: 4/4 time 25 Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Rumba",
         "history":"",
         "category":"Latin"
     },
@@ -227,7 +227,7 @@
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  9/10 its versatility is:  above average and its song tempo plus an example is: 2/4 time 50mpm",
         "music":"",
-        "picture":"",
+        "picture":"Brazil",
         "history":"",
         "category":"Latin"
     },
@@ -238,7 +238,7 @@
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: average and its song tempo plus an example is: 4/4 time 44-52 Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":"",
         "category":"Latin"
     },
@@ -249,7 +249,7 @@
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: Low and its song tempo is: 2/4 time 60-62",
         "music":"",
-        "picture":"",
+        "picture":"Paso",
         "history":"",
         "category":"Latin"
     },
@@ -260,7 +260,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: Low and its song tempo is:  4/4 time 40-55 mpm time",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":"",
         "category":"Latin Club"
     },
@@ -271,7 +271,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: average and its song tempo is:  4/4 time time varied mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":"",
         "category":"Latin Club"
     },
@@ -282,7 +282,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: very versatile and its song tempo is:  4/4 time varied mpm time",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":"",
         "category":"Latin Club"
     },
@@ -293,7 +293,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: low and its song tempo is: 4/4 time varied tempo, usually fast",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":"",
         "category":"Latin Club"
     },
@@ -304,7 +304,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: low and its song tempo is: 2/4 time usually ",
         "music":"",
-        "picture":"",
+        "picture":"Street",
         "history":"",
         "category":"Latin Club"
     },
@@ -315,7 +315,7 @@
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is: average and its song tempo is:  4/4 time varied tempo usually between 30-34 measures per minute.",
         "music":"",
-        "picture":"",
+        "picture":"street",
         "history":"",
         "category":"Latin Club"
     },
@@ -326,7 +326,7 @@
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  varied 3/4 and 4/4 time and varied tempos",
         "music":"",
-        "picture":"",
+        "picture":"Bar",
         "history":"",
         "category":"Club"
     },
@@ -337,7 +337,7 @@
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  4/4 time 16-22Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Bar",
         "history":"",
         "category":"Club"
     },
@@ -348,7 +348,7 @@
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  4/4 time 28-30Mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Bar",
         "history":"",
         "category":"Club"
     },
@@ -359,7 +359,7 @@
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: average and its song tempo is:  4/4 time and 45 mpm",
         "music":"",
-        "picture":"",
+        "picture":"Country",
         "history":"",
         "category":"Country"
     },
@@ -370,7 +370,7 @@
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: average and its song tempo is:  4/4 time and a varied tempo.",
         "music":"",
-        "picture":"",
+        "picture":"Country",
         "history":"",
         "category":"Country"
     },
@@ -381,7 +381,7 @@
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: average and its song tempo is:  4/4 time and 27-30 mpm ",
         "music":"",
-        "picture":"",
+        "picture":"Country",
         "history":"",
         "category":"Country"
     },
@@ -392,7 +392,7 @@
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: average and its song tempo is:  4/4 time and a varied tempo.",
         "music":"",
-        "picture":"",
+        "picture":"Country",
         "history":"",
         "category":"Country"
     },
@@ -403,7 +403,7 @@
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is: lower and its song tempo is:  4/4 time with varied Mpm",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
     },
@@ -414,7 +414,7 @@
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6.5/10 its versatility is: lower and its song tempo is:  4/4 time 40-65 Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
     },
@@ -425,7 +425,7 @@
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7.5/10 its versatility is: average and its song tempo is:  4/4 time 30-45 Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
     },
@@ -436,7 +436,7 @@
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: low and its song tempo is:  2/4 time 60-62Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Charleston",
         "history":"",
         "category":"Other"
 
@@ -459,7 +459,7 @@
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 9/10 its versatility is: average and its song tempo  is:  4/4 time 27-34 Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Carolina",
         "history":"",
         "category":"Other"
     },
@@ -470,7 +470,7 @@
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: low and its song tempo is:  2/4 time 60-62Mpm.",
         "music":"",
-        "picture":"",
+        "picture":"Polka",
         "history":"",
         "category":"Other"
     },
@@ -521,7 +521,7 @@
         "array":[{"name":"Waltz", "id":"1"},{"name":"Tango", "id":"2"},{"name":"Foxtrot", "id":"3"},{"name":"Viennese Waltz", "id":"4"}, {"name":"Back", "id":"45"}],
         "extra":"If you dont want to look at your partner these could be your thing.",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -531,7 +531,7 @@
         "array":[{"name":"Cha Cha", "id":"5"},{"name":"Rumba", "id":"6"},{"name":"East Coast Swing", "id":"7"},{"name":"Mambo", "id":"8"},{"name":"Bolero", "id":"9"},{"name":"Back", "id":"45"}],
         "extra":"if you enjoy moving your body in different directions simultaniously these could be for you",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -541,7 +541,7 @@
         "array":[{"name":"Merengue", "id":"10"},{"name":"Samba", "id":"11"},{"name":"Paso Doble", "id":"12"},{"name":"West Coast Swing", "id":"13"},{"name":"Back", "id":"45"}],
         "extra":"Alternative Dances.... nice of them to give you options...",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -551,7 +551,7 @@
         "array":[{"name":"Latin Cha Cha", "id":"19"},{"name":"Latin Rumba", "id":"20"},{"name":"Latin Paso Doble", "id":"23"},{"name":"Latin Samba", "id":"21"},{"name":"Jive", "id":"22"},{"name":"Back ", "id":"46"}],
         "extra":"Latin dances are like American's Rhythm dances.",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -561,7 +561,7 @@
         "array":[{"name":"Slow Waltz", "id":"14"},{"name":"International Tango", "id":"16"},{"name":"Quickstep", "id":"17"},{"name":"Slow Foxtrot", "id":"15"},{"name":"Viennese", "id":"18"},{"name":"Back ", "id":"46"}],
         "extra":"Standard dances are very similar to american 'Smooth' dances",
         "music":"",
-        "picture":"",
+        "picture":"Ballroom",
         "history":""
     },
     {
@@ -581,7 +581,7 @@
         "array":[{"name":"Blues", "id":"30"},{"name":"Hustle", "id":"31"},{"name":"Night Club Two Step", "id":"32"}, {"name":"Back ", "id":"47"}],
         "extra":"Many Latin Street dances are danced in clubs as well",
         "music":"",
-        "picture":"",
+        "picture":"Bar",
         "history":""
     },
     {
@@ -591,7 +591,7 @@
         "array":[{"name":"Country Two Step", "id":"33"},{"name":"Country Swing", "id":"36"},{"name":"Country Three Step", "id":"35"},{"name":"Country Waltz", "id":"34"}, {"name":"Back ", "id":"47"}],
         "extra":"While Paul isn't a fan of country music, he is happy you can at least dance to it. That being said he will not be putting up any music players for the sake of his own sanity.",
         "music":"",
-        "picture":"",
+        "picture":"Country",
         "history":""
     },
     {
@@ -601,7 +601,7 @@
         "array":[{"name":"Polka", "id":"43"},{"name":"Argentine Tango", "id":"41"},{"name":"Peabody", "id":"40"},{"name":"Carolina Shag", "id":"42"}, {"name":"Back ", "id":"47"}],
         "extra":"Some dances dont really fall into  any category paul can think of.",
         "music":"",
-        "picture":"Earth",
+        "picture":"Panda",
         "history":""
     },
     {
@@ -611,7 +611,7 @@
         "array":[{"name":"Balboa", "id":"38"},{"name":"Collegiate Shag", "id":"37"},{"name":"Lindy Hop", "id":"39"}, {"name":"Back ", "id":"47"}],
         "extra":"Jitterbug is another one, but thats included in East Coast Swing",
         "music":"",
-        "picture":"",
+        "picture":"Retro",
         "history":""
     }
 ]

@@ -1,23 +1,41 @@
 import React, {useEffect, useState} from 'react'
+import './body.css'
 import Card from 'react-bootstrap/Card'
 import Ballroom from './assets/Ballroom.jpg'
 import Roses from './assets/Roses.jpg'
 import Earth from './assets/Earth.jpg'
 import Street from './assets/Street.jpg'
 import Waltz from './assets/Waltz.jpg'
-
-function Body({picture}){
+import Foxtrot from './assets/Foxtrot.jpg'
+import Speed from './assets/Speed.jpg'
+import Quickstep from './assets/Quickstep.png'
+import Paso from './assets/Paso.png'
+import Rumba from './assets/Rumba.png'
+import ChaCha from './assets/ChaCha.png'
+import Fire from './assets/Fire.png' 
+import Retro from './assets/Retro.png'
+import Country from './assets/Country.png'
+import Bar from './assets/Bar.png'
+import Panda from './assets/Panda.png'
+import Charleston from './assets/Charleston.png'
+import Polka from './assets/Polka.png'
+import Carolina from './assets/Carolina.png'
+import Brazil from './assets/Brazil.png'
+import Pepper from './assets/Pepper.png'
+import Bolero from './assets/Bolero.png'
+import WCS from './assets/WCS.png'
+function Body({picture, extra,description,name}){
 
     const [currentImage, setCurrentImage]=useState()
-    const [currentColor, setCurrentColor]=useState()
+    const [currentPic, setCurrentPic]=useState()
 
-    let imgList = [{img:"Ballroom", variable:Ballroom, color:"white"},{img:"Tango", variable:Roses, color:"red"},{img:"Earth", variable:Earth, color:"white"},{img:"Street", variable: Street, color:"cyan"},{img:"Waltz", variable: Waltz, color:"white"}]
-
+    let imgList = [{img:"Ballroom", variable:Ballroom},{img:"Tango", variable:Roses},{img:"Earth", variable:Earth},{img:"Street", variable: Street},{img:"Waltz", variable: Waltz},{img:"Foxtrot", variable: Foxtrot},{img:"Speed", variable:Speed},{img:"Quick", variable:Quickstep},{img:"Paso", variable:Paso},{img:"Rumba", variable:Rumba},{img:"ChaCha", variable:ChaCha},{img:"Fire", variable:Fire}, {img:"Retro", variable:Retro}, {img:"Country", variable:Country},{img:"Bar", variable:Bar},{img:"Panda", variable:Panda},{img:"Charleston", variable:Charleston},{img:"Polka", variable:Polka}, {img:"Carolina", variable:Carolina}, {img:"Brazil", variable:Brazil},  {img:"Pepper", variable:Pepper}, {img:"Bolero", variable:Bolero}, {img:"WCS", variable:WCS}]
+     
     const findImage =()=>{
         imgList.forEach(item=>{
             if(item.img===picture){
                 setCurrentImage(item.variable)
-                setCurrentColor(item.color)
+                setCurrentPic(item.img)
             }
         })
     }
@@ -28,15 +46,14 @@ function Body({picture}){
 
 
 return(
-    <Card>
-    <Card.Img src={currentImage} alt="Card image" />
+    <Card className={currentPic+"One"}>
+    <Card.Img src={currentImage}  alt="Card image" />
     <Card.ImgOverlay>
-        <Card.Title style = {{color:currentColor }}>Card title</Card.Title>
+        <Card.Title className={currentPic} >{name}</Card.Title>
         </Card.ImgOverlay>
     <Card.Body>
       <Card.Text>
-        Some quick example text to build on the card title and make up the bulk
-        of the card's content.
+        {description}
       </Card.Text>
     </Card.Body>
   </Card>

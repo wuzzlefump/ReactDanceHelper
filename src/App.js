@@ -1,4 +1,5 @@
 import React, {useState,useEffect} from "react"
+import "./App.css"
 import Navbar from "react-bootstrap/Navbar"
 import Nav from "react-bootstrap/Nav"
 import Dances from"./Dances.json"
@@ -48,7 +49,7 @@ function App() {
 <Container style={{marginTop: "2%"}}>
     <Row>
       <Col sm="12" md="4">
-        <Jumbotron style={{position:"fixed"}}>
+        <Jumbotron className="go">
     <Table striped bordered hover variant="dark">
     <thead>
     <tr>
@@ -65,7 +66,7 @@ function App() {
       </Col>
       <Col sm="12" md="8">
         <Jumbotron>
-          <Body picture={pageState.picture}/>
+          <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture}/>
         </Jumbotron>
       </Col>
     </Row>
