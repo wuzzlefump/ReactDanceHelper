@@ -1,6 +1,9 @@
 import React, {useEffect, useState} from 'react'
 import './body.css'
+import MusicBox from '../Music/music'
 import Card from 'react-bootstrap/Card'
+import Accordion from 'react-bootstrap/Accordion'
+import Button from 'react-bootstrap/Button'
 import Ballroom from './assets/Ballroom.jpg'
 import Roses from './assets/Roses.jpg'
 import Earth from './assets/Earth.jpg'
@@ -24,7 +27,7 @@ import Brazil from './assets/Brazil.png'
 import Pepper from './assets/Pepper.png'
 import Bolero from './assets/Bolero.png'
 import WCS from './assets/WCS.png'
-function Body({picture, extra,description,name}){
+function Body({picture, extra,description,name,music}){
 
     const [currentImage, setCurrentImage]=useState()
     const [currentPic, setCurrentPic]=useState()
@@ -56,6 +59,30 @@ return(
         {description}
       </Card.Text>
     </Card.Body>
+    {/* accordian here */}
+    <Accordion defaultActiveKey="0">
+        <Card>
+            <Card.Header className="h">
+            <Accordion.Toggle  as={Button} variant="link" eventKey="0">
+                Music Box!
+            </Accordion.Toggle>
+            </Card.Header>
+            <Accordion.Collapse style={{marginLeft:"30%", marginTop:"5%"}} eventKey="0">
+                <MusicBox music={music} name={name}/>
+            </Accordion.Collapse>
+        </Card>
+        <Card>
+            <Card.Header className="h">
+            <Accordion.Toggle  as={Button} variant="link" eventKey="1">
+                Click here for Paul's Opinion
+            </Accordion.Toggle>
+            </Card.Header>
+            <Accordion.Collapse eventKey="1">
+            <Card.Body>{extra}</Card.Body>
+            </Accordion.Collapse>
+        </Card>
+        </Accordion>
+    {/* accordian here */}
   </Card>
 )
 }

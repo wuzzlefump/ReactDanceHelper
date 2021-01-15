@@ -5,7 +5,7 @@
         "description":"Waltz is slow smooth and flowing; The stereotypical disney dance. You like Disney? Maybe try waltz.",
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 5/10 its versatility is: low and its song tempo is:  3/4 time 30-32 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980083/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/waltz?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Waltz",
         "history":"",
         "category":"Smooth"
@@ -16,7 +16,7 @@
         "description":"Tango is sharp, dramatic, intense. Do you like drama? You Like Tango.",
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: above average and its song tempo  is: 4/4 time",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980093/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/tango?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Tango",
         "history":"",
         "category":"Smooth"
@@ -27,7 +27,7 @@
         "description":"Slow, Sultry, Jazzy, 10/10 good to walk and snap your fingers to.",
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979954/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/foxtrot?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Foxtrot",
         "history":"",
         "category":"Smooth"
@@ -38,7 +38,7 @@
         "description":"Double the speed means double the waltz right?",
         "array":[{"name":"Back", "id":"48"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  8.5/10 its versatility is: average and its song tempo plus an example is: 3/4 time 54-46 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979950/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/viennese-waltz-smooth?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Speed",
         "history":"",
         "category":"Smooth"
@@ -49,7 +49,7 @@
         "description":"If Rhythm Dances are all a type seduction, Cha Cha is seduction by flirt. The music is fast fun and has lots of syncopations. You can dance to pop or the traditional latin stuff. You like flirting? Maybe do Cha Cha.",
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  its versatility is: above average and its song tempo is:  4/4 time 30-32 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979936/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/cha-cha-rhythm?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"ChaCha",
         "history":"",
         "category":"Rhythm"
@@ -60,7 +60,7 @@
         "description":"If all Rhythm dances are a type of seduction Rumba is the romance. It can be intese or soft, happy or sad, fast or slow.If you enjoy all the emotions that come from romance. Rumba is for you",
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 5/10 its versatility is: Very Versatile and its song tempo  is:  4/4 time 30-32 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979932/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/rumba-rhythm?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Rumba",
         "history":"",
         "category":"Rhythm"
@@ -72,7 +72,7 @@
         "description":"If all Rhythm dances are a type of seduction Swing is the Party the seduction started at. Fast, Fun. You like to party? So does swing.",
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: Very Versatile and its song tempo is: 4/4 time 32-36 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979889/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/east-coast-swing?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":"",
         "category":"Rhythm"
@@ -83,7 +83,7 @@
         "description":"If all Rhythm Dances are a type of seduction, Mambo is the one night stand. Its dirty. Get your mind out of the gutter.",
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: average and its song tempo  is:  4/4time 47-51 mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979939/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/mambo?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Fire",
         "history":"",
         "category":"Rhythm"
@@ -94,7 +94,7 @@
         "description":"If every Rhythm dance is a type of seduction, Bolero is a deep and powerful love. If you like to express your love through power ballad, Bolero is for you.",
         "array":[{"name":"Back", "id":"49"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is:  Low and its song tempo is:  4/4 time 24-26 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979942/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/bolero?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Bolero",
         "history":"",
         "category":"Rhythm"
@@ -105,7 +105,7 @@
         "description":"Want to dance a dance originally made for a man with a peg leg? This is the one for you",
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  2/10 its versatility is:  above average and its song tempo is: 4/4 time 29-32 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980103/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/merengue?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Pepper",
         "history":"",
         "category":"Alternative"
@@ -116,7 +116,7 @@
         "description":"Imagine waltz, then mix it with a raging party. Kinda a contradiction but super fun.",
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  9/10 its versatility is: above average and its song tempo is: 2/4 time 54-56 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980101/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/samba?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Brazil",
         "history":"",
         "category":"Alternative"
@@ -127,7 +127,7 @@
         "description":"Dont get enough adrenaline in your life. Want to fight a bull? Want to cultivate a relationship with your cape? This is for you",
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: Low and its song tempo is: 2/4 time 58-60 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980095/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/paso-doble?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Paso",
         "history":"",
         "category":"Alternative"
@@ -138,7 +138,7 @@
         "description":"While West coast swing was designed not to rock boats. It rocks. it also works on both coasts.It also works for almost everything",
         "array":[{"name":"Back", "id":"50"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is:  8/10 its versatility is: very versatile and its song is: 4/4 time 28-32 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980100/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/west-coast?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"WCS",
         "history":"",
         "category":"Alternative"
@@ -149,7 +149,7 @@
         "description":"Think waltz isnt slow enough? lets slow it down.",
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: Low and its song tempo is: 3/4 time 28-31 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980083/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/waltz?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Waltz",
         "history":"",
         "category":"Standard"
@@ -160,7 +160,7 @@
         "description":"Like Foxtrot but instead of traveling in a circle you get to travel in an 'X' ",
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7.5/10 its versatility is: Low and its song tempo plus an example is: 4/4 time 28-30 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979954/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/foxtrot?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Foxtrot",
         "history":"",
         "category":"Standard"
@@ -171,7 +171,7 @@
         "description":"All the same Tango flair, take away the emphasis on musical phrasing",
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is:  above average and its song tempo is: 4/4 time 32-34 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980093/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/tango?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Tango",
         "history":"",
         "category":"Standard"
@@ -182,7 +182,7 @@
         "description":"Lets say Swing and Foxtrot had a baby, then filled it with sugar. thats what you are getting in to",
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  9/10 its versatility is: Low and its song tempo is: 4/4 time 50-52 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980098/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/quickstep?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Quick",
         "history":"",
         "category":"Standard"
@@ -193,7 +193,7 @@
         "description":"So one day someone was like 'lets take Viennese Waltz but speed it up even more'",
         "array":[{"name":"Back", "id":"52"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: average and its song tempo is: 3/4 time 56-60 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980096/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/viennese?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Speed",
         "history":"",
         "category":"Standard"
@@ -204,7 +204,7 @@
         "description":"Do you like fast? do you like flirty? Add in some latin movement and voila!",
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7.5/10 its versatility is: average and its song tempo is: 4/4 time 32-34 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979936/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/cha-cha-rhythm?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"ChaCha",
         "history":"",
         "category":"Latin"
@@ -215,7 +215,7 @@
         "description":"If Slow, romantic, and latin flair are things that speak to you...",
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: average and its song tempo plus an example is: 4/4 time 25 Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980146/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/rumba-latin?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Rumba",
         "history":"",
         "category":"Latin"
@@ -226,7 +226,7 @@
         "description":" Also Known as the Brazilian Waltz...its nothing like waltz but it  is notorious for being a blast...",
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  9/10 its versatility is:  above average and its song tempo plus an example is: 2/4 time 50mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980101/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/samba?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Brazil",
         "history":"",
         "category":"Latin"
@@ -237,7 +237,7 @@
         "description":"The international community's take on swing.... they decided to speed it up.",
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  7/10 its versatility is: average and its song tempo plus an example is: 4/4 time 44-52 Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980170/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/jive?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":"",
         "category":"Latin"
@@ -248,7 +248,7 @@
         "description":"Do you need more adrenaline in your life? Do you need more stamping? Go fight some bulls.",
         "array":[{"name":"Back", "id":"51"}],
         "extra":"Pauls Biased belief of this dance is that its difficulty is:  8/10 its versatility is: Low and its song tempo is: 2/4 time 60-62",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980095/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/paso-doble?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Paso",
         "history":"",
         "category":"Latin"
@@ -259,7 +259,7 @@
         "description":"A sauce thats delicious on chips... that or a fun carefree dance with lots of spins.",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: Low and its song tempo is:  4/4 time 40-55 mpm time",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980193/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/salsa?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":"",
         "category":"Latin Club"
@@ -270,7 +270,7 @@
         "description":"Started out as a dominican street dance. now everyones making remixes of it. It ranges from super fun to romantic and sexy. you like latin music and remixes? give it a try ",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: average and its song tempo is:  4/4 time time varied mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8979935/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/bachata?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":"",
         "category":"Latin Club"
@@ -281,7 +281,7 @@
         "description":"Like bringing dizzy to a whole new level? Like Songs that go BOOM CHIC CHIC? Like Body Rolls? give it a try",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: very versatile and its song tempo is:  4/4 time varied mpm time",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980092/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/zouk?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":"",
         "category":"Latin Club"
@@ -292,7 +292,7 @@
         "description":"Like fast dances? Like Brazilian specific folk music? This may be for you.",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7/10 its versatility is: low and its song tempo is: 4/4 time varied tempo, usually fast",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8981054/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/forro?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":"",
         "category":"Latin Club"
@@ -303,7 +303,7 @@
         "description":"A Columbian folk dance dance thats spread throughout latin america. like rocksteps? maybe try it out ",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: low and its song tempo is: 2/4 time usually ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980938/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/cumbia?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":"",
         "category":"Latin Club"
@@ -314,7 +314,7 @@
         "description":"Interested in Angolan dances? Like Being real close? Like isolating your hips with crazy precision? like  having fancy feet? give it a go",
         "array":[{"name":"Back", "id":"53"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is: average and its song tempo is:  4/4 time varied tempo usually between 30-34 measures per minute.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980169/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/kizomba?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"street",
         "history":"",
         "category":"Latin Club"
@@ -325,7 +325,7 @@
         "description":"Your soul singing the blues? Need a slow rhythm to soothe your soul? Dont want to think too hard about what you are doing? Dance the blues",
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  varied 3/4 and 4/4 time and varied tempos",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980172/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/blues?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Bar",
         "history":"",
         "category":"Club"
@@ -336,7 +336,7 @@
         "description":"In a night Club often? It playing power ballads or other slow songs? This may be what you need",
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  4/4 time 16-22Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980168/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/nightclub-2-step?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Bar",
         "history":"",
         "category":"Club"
@@ -347,7 +347,7 @@
         "description":"Wanna disco? Have the need for speed? This was made for you.",
         "array":[{"name":"Back", "id":"54"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 2/10 its versatility is: high and its song tempo is:  4/4 time 28-30Mpm ",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980268/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/hustle?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Bar",
         "history":"",
         "category":"Club"
@@ -358,7 +358,7 @@
         "description":"Wanna travel round the floor to your favorite country song? this could be the one for you",
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: average and its song tempo is:  4/4 time and 45 mpm",
-        "music":"",
+        "music":{"src":"none","ref":"none"},
         "picture":"Country",
         "history":"",
         "category":"Country"
@@ -369,7 +369,7 @@
         "description":"Waltz too hard? Wish it were just 3 steps forward? Want it so you can dance with a beer in your hand? countrify it",
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: average and its song tempo is:  4/4 time and a varied tempo.",
-        "music":"",
+        "music":{"src":"none","ref":"none"},
         "picture":"Country",
         "history":"",
         "category":"Country"
@@ -380,7 +380,7 @@
         "description":"Wanna make 2 step more complicated for an extra challenge? Maybe try 3 step.",
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6/10 its versatility is: average and its song tempo is:  4/4 time and 27-30 mpm ",
-        "music":"",
+        "music":{"src":"none","ref":"none"},
         "picture":"Country",
         "history":"",
         "category":"Country"
@@ -391,7 +391,7 @@
         "description":"Wanna spin a girl randomly and do tricks while not moving much.... maybe while drunk? Not really worried about safety? Country swing",
         "array":[{"name":"Back", "id":"55"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: average and its song tempo is:  4/4 time and a varied tempo.",
-        "music":"",
+        "music":{"src":"none","ref":"none"},
         "picture":"Country",
         "history":"",
         "category":"Country"
@@ -402,7 +402,7 @@
         "description":"Need a workout?Like Constantly Bouncing? Like Shag? Try this dance",
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 8/10 its versatility is: lower and its song tempo is:  4/4 time with varied Mpm",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980302/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/collegiate-shag?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
@@ -413,7 +413,7 @@
         "description":"Like shuffling around to fast fast big band music? Maybe try Balboa",
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 6.5/10 its versatility is: lower and its song tempo is:  4/4 time 40-65 Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980939/player_v3_universal", "href":"https://8tracks.com/user_4712154067886/balboa?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
@@ -424,7 +424,7 @@
         "description":"The first variation of swing. Super fast. Old timey big band. Thats the stuff",
         "array":[{"name":"Back", "id":"57"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7.5/10 its versatility is: average and its song tempo is:  4/4 time 30-45 Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8981229/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/lindy-hop?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":"",
         "category":"Swing Relatives"
@@ -435,7 +435,7 @@
         "description":"Want to briskly trot with your Partner? Maybe Peabody is for you",
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 4/10 its versatility is: low and its song tempo is:  2/4 time 60-62Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980413/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/peabody?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Charleston",
         "history":"",
         "category":"Other"
@@ -447,7 +447,7 @@
         "description":"You like leg flicks, You like Ochos? welcome to Argentine",
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 7.5/10 its versatility is: average and its song tempo is:  4/4 time 22-32Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980303/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/argentine-tango?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Tango",
         "history":"",
         "category":"Other"
@@ -458,7 +458,7 @@
         "description":"Do you like west coast swing? wanna make it more complicated and increase the speed. There ya go",
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 9/10 its versatility is: average and its song tempo  is:  4/4 time 27-34 Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980294/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/carolina-shag?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Carolina",
         "history":"",
         "category":"Other"
@@ -469,7 +469,7 @@
         "description":"Is your head spinning? No thats just you. Yay Polka",
         "array":[{"name":"Back", "id":"56"}],
         "extra":"Paul's Biased belief of this dance is that its difficulty is: 3/10 its versatility is: low and its song tempo is:  2/4 time 60-62Mpm.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8980305/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/polka?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Polka",
         "history":"",
         "category":"Other"
@@ -480,7 +480,7 @@
         "description":"Click a button to find out more about Dance!",
         "array":[{"name":"American Dances", "id":"45"},{"name":"International Dances", "id":"46"},{"name":"Other Dances", "id":"47"}],
         "extra":"Anyone can learn to dance. But what dance should you learn? Will you get Paul's commentary on it? This site has it all.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993750/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/home?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -490,7 +490,7 @@
         "description":"American style dances refer to dances that are competed in by the ballroom community that started in America. It falls into three main categories: Smooth, Rhythm, and the Alternative dances.",
         "array":[{"name":"Smooth", "id":"48"},{"name":"Rhythm", "id":"49"},{"name":"Alternatives", "id":"50"},{"name":"Back", "id":"44"}],
         "extra":"American style dances are generally danced more socially than international. That being said they still have international influences",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993751/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/american-songs?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -500,7 +500,7 @@
         "description":"International dances are dances competed in by the ballroom community around the world",
         "array":[{"name":"Standard", "id":"52"},{"name":"Latin", "id":"51"},{"name":"Back", "id":"44"} ],
         "extra":"International Style are mostly danced competitively rather than socially",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993753/player_v3_universal", "ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -510,7 +510,7 @@
         "description":"There are many dances other than the ones danced by the ballroom community.",
         "array":[{"name":"Street Latin", "id":"53"},{"name":"Club", "id":"54"},{"name":"Country", "id":"55"},{"name":"Misc", "id":"56"},{"name":"Swing Related","id":"57"}, {"name":"Back ", "id":"44"}],
         "extra":"Some of these dances are more fun than the ballroom ones in Paul's opinion",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993754/player_v3_universal", "ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Earth",
         "history":""
     },
@@ -520,7 +520,7 @@
         "description":"All Dances should be Smooth and all dances should have Rhythm. Being called a Smooth dance just means it has characteristics similar to other 'Smooth Dances' . Common characteristics include: Traveling around the floor, Rolling through your feet, and The whole body working in unison",
         "array":[{"name":"Waltz", "id":"1"},{"name":"Tango", "id":"2"},{"name":"Foxtrot", "id":"3"},{"name":"Viennese Waltz", "id":"4"}, {"name":"Back", "id":"45"}],
         "extra":"If you dont want to look at your partner these could be your thing.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993756/player_v3_universal","ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -530,7 +530,7 @@
         "description":"All dances should be smooth and all dances have rhythm. Being a Rhythm dance just means that it is in a family of dances that share characteristics. Rhythm dances tend to not travel around the room,have a forward poise, and utilize motion in the torso and hips.",
         "array":[{"name":"Cha Cha", "id":"5"},{"name":"Rumba", "id":"6"},{"name":"East Coast Swing", "id":"7"},{"name":"Mambo", "id":"8"},{"name":"Bolero", "id":"9"},{"name":"Back", "id":"45"}],
         "extra":"if you enjoy moving your body in different directions simultaniously these could be for you",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993757/player_v3_universal","ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -540,7 +540,7 @@
         "description":"Alternative Dances are dances that dont really fall into Rhythm or Smooth categories. The American ballroom community still competes in it though.",
         "array":[{"name":"Merengue", "id":"10"},{"name":"Samba", "id":"11"},{"name":"Paso Doble", "id":"12"},{"name":"West Coast Swing", "id":"13"},{"name":"Back", "id":"45"}],
         "extra":"Alternative Dances.... nice of them to give you options...",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993758/player_v3_universal","ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -550,7 +550,7 @@
         "description":"Latin dances are one of the categorys the international ballroom community competes in. In latin dances people often go out of closed holds for moves and use a latin body motion to highlight the dance.",
         "array":[{"name":"Latin Cha Cha", "id":"19"},{"name":"Latin Rumba", "id":"20"},{"name":"Latin Paso Doble", "id":"23"},{"name":"Latin Samba", "id":"21"},{"name":"Jive", "id":"22"},{"name":"Back ", "id":"46"}],
         "extra":"Latin dances are like American's Rhythm dances.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993759/player_v3_universal","ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -560,7 +560,7 @@
         "description":"Standard Dances are dances danced by the competed in by the international ballroom community. They travel around the room, and do not leave the closed hold",
         "array":[{"name":"Slow Waltz", "id":"14"},{"name":"International Tango", "id":"16"},{"name":"Quickstep", "id":"17"},{"name":"Slow Foxtrot", "id":"15"},{"name":"Viennese", "id":"18"},{"name":"Back ", "id":"46"}],
         "extra":"Standard dances are very similar to american 'Smooth' dances",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993761/player_v3_universal", "ref":"https://8tracks.com/user_4712154067886/standard-rounds?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Ballroom",
         "history":""
     },
@@ -570,7 +570,7 @@
         "description":"Latin America is one of the biggest sources of social dances",
         "array":[{"name":"Salsa", "id":"24"},{"name":"Bachata", "id":"25"},{"name":"Cumbia", "id":"28"},{"name":"Forro", "id":"27"},{"name":"Zouk", "id":"26"},{"name":"Kizomba", "id":"29"}, {"name":"Back ", "id":"47"}],
         "extra":"These dances go to latin beats, and make the bodies groove out in the streets.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993760/player_v3_universal","ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Street",
         "history":""
     },
@@ -580,7 +580,7 @@
         "description":"These are traditional night club dances",
         "array":[{"name":"Blues", "id":"30"},{"name":"Hustle", "id":"31"},{"name":"Night Club Two Step", "id":"32"}, {"name":"Back ", "id":"47"}],
         "extra":"Many Latin Street dances are danced in clubs as well",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993762/player_v3_universal", "ref":"http://8tracks.com/user_4712154067886?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Bar",
         "history":""
     },
@@ -590,7 +590,7 @@
         "description":"Country, as a genre, has quite a few dances you can do to it",
         "array":[{"name":"Country Two Step", "id":"33"},{"name":"Country Swing", "id":"36"},{"name":"Country Three Step", "id":"35"},{"name":"Country Waltz", "id":"34"}, {"name":"Back ", "id":"47"}],
         "extra":"While Paul isn't a fan of country music, he is happy you can at least dance to it. That being said he will not be putting up any music players for the sake of his own sanity.",
-        "music":"",
+        "music":{"src":"none", "ref":"none"},
         "picture":"Country",
         "history":""
     },
@@ -600,7 +600,7 @@
         "description":"Some misc. dances",
         "array":[{"name":"Polka", "id":"43"},{"name":"Argentine Tango", "id":"41"},{"name":"Peabody", "id":"40"},{"name":"Carolina Shag", "id":"42"}, {"name":"Back ", "id":"47"}],
         "extra":"Some dances dont really fall into  any category paul can think of.",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993766/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/hodge-podge?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Panda",
         "history":""
     },
@@ -610,7 +610,7 @@
         "description":"Swing has a pretty full family tree",
         "array":[{"name":"Balboa", "id":"38"},{"name":"Collegiate Shag", "id":"37"},{"name":"Lindy Hop", "id":"39"}, {"name":"Back ", "id":"47"}],
         "extra":"Jitterbug is another one, but thats included in East Coast Swing",
-        "music":"",
+        "music":{"src":"https://8tracks.com/mixes/8993767/player_v3_universal","ref":"https://8tracks.com/user_4712154067886/swing-family?utm_medium=referral&utm_content=mix-page&utm_campaign=embed_button"},
         "picture":"Retro",
         "history":""
     }
