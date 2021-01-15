@@ -46,7 +46,7 @@ function App() {
       </Navbar>
 {/* Nav */}
 {/* page */}
-<Container style={{marginTop: "2%"}}>
+<Container className="Page" style={{marginTop: "2%"}}>
     <Row>
       <Col sm="12" md="4">
         <Jumbotron className="go">
@@ -66,7 +66,7 @@ function App() {
       </Col>
       <Col sm="12" md="8">
         <Jumbotron>
-          <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture} music={pageState.music}/>
+          <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture} music={pageState.music} history={pageState.history}/>
         </Jumbotron>
       </Col>
     </Row>

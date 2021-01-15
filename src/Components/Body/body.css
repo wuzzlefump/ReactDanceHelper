@@ -19,7 +19,9 @@
     font-size: 4pc;
 }
 .Street{
-    color:cyan;
+    color:yellow;
+    font-style: italic;
+    font-size: 3pc;
 }
 .Waltz{
     color:white;

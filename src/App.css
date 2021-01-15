@@ -1,3 +1,11 @@
-.go{
+/* .go{
     position: fixed;
+} */
+
+@media (min-width: 780px){
+
+    .go{
+
+        position: fixed;
+    }
 }

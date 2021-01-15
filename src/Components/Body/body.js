@@ -27,7 +27,7 @@ import Brazil from './assets/Brazil.png'
 import Pepper from './assets/Pepper.png'
 import Bolero from './assets/Bolero.png'
 import WCS from './assets/WCS.png'
-function Body({picture, extra,description,name,music}){
+function Body({picture, extra,description,name,music,history}){
 
     const [currentImage, setCurrentImage]=useState()
     const [currentPic, setCurrentPic]=useState()
@@ -79,6 +79,24 @@ return(
             </Card.Header>
             <Accordion.Collapse eventKey="1">
             <Card.Body>{extra}</Card.Body>
+            </Accordion.Collapse>
+        </Card>
+        <Card>
+            <Card.Header className="h">
+            <Accordion.Toggle  as={Button} variant="link" eventKey="2">
+                Click here for links to more resources
+            </Accordion.Toggle>
+            </Card.Header>
+            <Accordion.Collapse eventKey="2">
+                <Card.Body>
+                    <h5>History:</h5>
+                    <br></br>
+                    <a href={history.link}>{history.link}</a>
+                    <br></br>
+                    <h5>Video:</h5>
+                    <br></br>
+                    <a href={history.vid}>{history.vid}</a>
+                </Card.Body>
             </Accordion.Collapse>
         </Card>
         </Accordion>
