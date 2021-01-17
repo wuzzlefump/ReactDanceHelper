@@ -81,7 +81,7 @@ return(
             <Card.Body>{extra}</Card.Body>
             </Accordion.Collapse>
         </Card>
-        {(parseInt(bodyId)<44) ? <Card>
+        {(parseInt(bodyId)<44 && name.includes("Country")===false) ? <Card>
             <Card.Header className="h">
             <Accordion.Toggle  as={Button} variant="link" eventKey="2">
                 Click here for links to more resources
