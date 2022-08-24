@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ReactDanceHelper/static/css/main.0c857aa6.chunk.css",
-    "main.js": "/ReactDanceHelper/static/js/main.9592abef.chunk.js",
-    "main.js.map": "/ReactDanceHelper/static/js/main.9592abef.chunk.js.map",
-    "runtime-main.js": "/ReactDanceHelper/static/js/runtime-main.bd38a760.js",
-    "runtime-main.js.map": "/ReactDanceHelper/static/js/runtime-main.bd38a760.js.map",
-    "static/js/2.0a42fc08.chunk.js": "/ReactDanceHelper/static/js/2.0a42fc08.chunk.js",
-    "static/js/2.0a42fc08.chunk.js.map": "/ReactDanceHelper/static/js/2.0a42fc08.chunk.js.map",
-    "static/js/3.f59af205.chunk.js": "/ReactDanceHelper/static/js/3.f59af205.chunk.js",
-    "static/js/3.f59af205.chunk.js.map": "/ReactDanceHelper/static/js/3.f59af205.chunk.js.map",
+    "main.css": "/ReactDanceHelper/static/css/main.c05df446.chunk.css",
+    "main.js": "/ReactDanceHelper/static/js/main.25301072.chunk.js",
+    "main.js.map": "/ReactDanceHelper/static/js/main.25301072.chunk.js.map",
+    "runtime-main.js": "/ReactDanceHelper/static/js/runtime-main.41779c47.js",
+    "runtime-main.js.map": "/ReactDanceHelper/static/js/runtime-main.41779c47.js.map",
+    "static/js/2.7e4c3f48.chunk.js": "/ReactDanceHelper/static/js/2.7e4c3f48.chunk.js",
+    "static/js/2.7e4c3f48.chunk.js.map": "/ReactDanceHelper/static/js/2.7e4c3f48.chunk.js.map",
+    "static/js/3.ff4faa65.chunk.js": "/ReactDanceHelper/static/js/3.ff4faa65.chunk.js",
+    "static/js/3.ff4faa65.chunk.js.map": "/ReactDanceHelper/static/js/3.ff4faa65.chunk.js.map",
     "index.html": "/ReactDanceHelper/index.html",
-    "static/css/main.0c857aa6.chunk.css.map": "/ReactDanceHelper/static/css/main.0c857aa6.chunk.css.map",
-    "static/js/2.0a42fc08.chunk.js.LICENSE.txt": "/ReactDanceHelper/static/js/2.0a42fc08.chunk.js.LICENSE.txt",
+    "static/css/main.c05df446.chunk.css.map": "/ReactDanceHelper/static/css/main.c05df446.chunk.css.map",
+    "static/js/2.7e4c3f48.chunk.js.LICENSE.txt": "/ReactDanceHelper/static/js/2.7e4c3f48.chunk.js.LICENSE.txt",
     "static/media/Ballroom.2750f4a0.jpg": "/ReactDanceHelper/static/media/Ballroom.2750f4a0.jpg",
     "static/media/Bar.c963ef76.png": "/ReactDanceHelper/static/media/Bar.c963ef76.png",
     "static/media/Bolero.cc49a36a.png": "/ReactDanceHelper/static/media/Bolero.cc49a36a.png",
@@ -37,9 +37,9 @@
     "static/media/Waltz.8a3ab685.jpg": "/ReactDanceHelper/static/media/Waltz.8a3ab685.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd38a760.js",
-    "static/js/2.0a42fc08.chunk.js",
-    "static/css/main.0c857aa6.chunk.css",
-    "static/js/main.9592abef.chunk.js"
+    "static/js/runtime-main.41779c47.js",
+    "static/js/2.7e4c3f48.chunk.js",
+    "static/css/main.c05df446.chunk.css",
+    "static/js/main.25301072.chunk.js"
   ]
 }
