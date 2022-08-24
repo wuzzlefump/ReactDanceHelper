@@ -46,10 +46,9 @@ function App() {
       </Navbar>
 {/* Nav */}
 {/* page */}
-<Container className="Page" style={{marginTop: "2%"}}>
-    <Row>
-      <Col sm="12" md="4">
-        <Jumbotron className="go">
+  <div className="page">
+  <div className="sidebar">
+        <Jumbotron className="go" >
     <Table striped bordered hover variant="dark">
     <thead>
     <tr>
@@ -63,14 +62,15 @@ function App() {
   </tbody>
     </Table>
         </Jumbotron>
-      </Col>
-      <Col sm="12" md="8">
+      </div>
+      <div className="content">
         <Jumbotron>
           <Body description={pageState.description} extra={pageState.extra} name={pageState.name} picture={pageState.picture} music={pageState.music} history={pageState.history} bodyId={pageState.id} />
         </Jumbotron>
-      </Col>
-    </Row>
-  </Container>
+
+      </div>
+
+   </div>
 {/* Footer */}
     </div>);
 }

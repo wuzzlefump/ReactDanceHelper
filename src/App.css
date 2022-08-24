@@ -2,8 +2,14 @@
     position: fixed;
 } */
 
-@media (min-width: 780px){
 
+
+@media (min-width: 780px){
+.page{
+display: grid;
+grid-template-columns: 350px auto;
+gap:10px;
+}
     .go{
 
         position: fixed;

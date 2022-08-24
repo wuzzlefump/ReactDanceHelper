@@ -49,10 +49,10 @@ function Body({picture, extra,description,name,music,history, bodyId}){
 
 
 return(
-    <Card className={currentPic+"One"}>
+    <Card className={currentPic+"One"} style={{paddingLeft:"10px", paddingRight:"10px", paddingBottom:"10px"}}>
+    <h6 className={currentPic} style={{textAlign:"center"}}>{name}</h6>
     <Card.Img src={currentImage}  alt="Card image" />
-    <Card.ImgOverlay>
-        <Card.Title className={currentPic} >{name}</Card.Title>
+    <Card.ImgOverlay>        
         </Card.ImgOverlay>
     <Card.Body>
       <Card.Text>
